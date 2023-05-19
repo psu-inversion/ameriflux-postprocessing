@@ -11,5 +11,5 @@ where the file with units for all the variables is available from https://amerif
 and the measurement location metadata file is available from https://ameriflux.lbl.gov/data/measurement-height/
 
 # Dependencies
-Quality flags provided by [hesseflux](https://pypi.org/project/hesseflux/)
-Backup solar radiation provided by [pvlib](https://pypi.org/project/pvlib/)
+- Quality flags provided by [hesseflux](https://pypi.org/project/hesseflux/)
+- Backup solar radiation provided by [pvlib](https://pypi.org/project/pvlib/)
