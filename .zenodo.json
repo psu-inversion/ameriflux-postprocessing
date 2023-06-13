@@ -1,0 +1,19 @@
+{
+    "description": "<p>Reformat AmeriFlux data files into NetCDF files following CF and ACDD conventions, based around the NCEI orthogonal time series template</p><p>Also add quality flags for outliers and low-turbulence conditions.</p>", 
+    "license": "BSD-3-Clause",
+    "upload_type": "software", 
+    "publication_date": "2023-06-13", 
+    "creators": [
+        {
+            "name": "DWesl"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.8033823", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
